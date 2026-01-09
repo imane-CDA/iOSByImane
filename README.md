@@ -57,6 +57,7 @@ Figma, Canva
 </tr>
 </table>
 
+---
 
 ## 💡 Projets en vedette
 
@@ -68,14 +69,6 @@ Figma, Canva
 ### 2. Sport2Day  
 📱 Application iOS développée avec **SwiftUI** et architecture **MVVM**.  
 🔗 https://github.com/imane-CDA/Sport2Day.git
-
-
----
-
-## 📊 Statistiques GitHub
-
-![Imane's GitHub stats](https://github-readme-stats.vercel.app/api?username=imane-CDA&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imane-CDA&layout=compact&theme=radical)
 
 ---
 
@@ -92,4 +85,4 @@ Créer des **applications performantes et innovantes**, alliant **créativité e
 
 ---
 
-Merci de visiter mon GitHub ! 🎉  
+Merci pour votre visite ! 🎉  
