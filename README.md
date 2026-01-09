@@ -63,19 +63,19 @@ Figma, Canva
 
 ### 1. Ecokids  
 📱 Application iOS développée avec **SwiftUI** et architecture **MVVM**.  
-🔗 https://github.com/iOSByImane/Ecokids.git
+🔗 https://github.com/imane-CDA/Ecokids.git
 
 ### 2. Sport2Day  
 📱 Application iOS développée avec **SwiftUI** et architecture **MVVM**.  
-🔗 https://github.com/iOSByImane/Sport2Day.git
+🔗 https://github.com/imane-CDA/Sport2Day.git
 
 
 ---
 
 ## 📊 Statistiques GitHub
 
-![Imane's GitHub stats](https://github-readme-stats.vercel.app/api?username=iOSByImane&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iOSByImane&layout=compact&theme=radical)
+![Imane's GitHub stats](https://github-readme-stats.vercel.app/api?username=imane-CDA&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imane-CDA&layout=compact&theme=radical)
 
 ---
 
