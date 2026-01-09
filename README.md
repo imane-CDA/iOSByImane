@@ -4,14 +4,14 @@
 # 👋 Salut ! Je suis Imane Boujnane
 
 Développeuse Web & Mobile passionnée par la création d'applications innovantes. 🚀  
-Mon objectif : rejoindre la promotion **"Conceptrice Développeuse d'Applications Apple"** pour perfectionner mes compétences en développement iOS.  
+Mon objectif : rejoindre la promotion **"Conceptrice Développeuse d'Applications devOps"** pour perfectionner mes compétences en développement mobile.  
 
 ---
 
 ## 🌱 Mon parcours
 
 - 💻 **Développement Web & Web Mobile** : HTML, CSS, JavaScript, PHP, SQL  
-- 📱 **Formation AFP** : découverte et passion pour **Swift**  
+- 📱 **Formation AFP** : découverte du framework **SwiftUI**  
 - 📱 **Formation Extended** : perfectionnement en développement iOS avec **SwiftUI** et architecture **MVVM**  
 
 ---
@@ -81,7 +81,7 @@ Figma, Canva
 
 ## 🌟 Objectif
 
-Créer des **applications iOS performantes et innovantes**, alliant **créativité et technique**, et intégrer la promotion **"Conceptrice Développeuse d'Applications Apple"**.  
+Créer des **applications performantes et innovantes**, alliant **créativité et technique**, et intégrer la promotion **"Conceptrice Développeuse d'Applications devOps"**.  
 
 ---
 
